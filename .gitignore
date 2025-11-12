@@ -1,0 +1,12 @@
+# Dependencies
+/node_modules
+/server/node_modules
+
+# Environment variables
+/server/.env
+
+# Data
+/server/data/app.db
+
+# Build folder
+/build
